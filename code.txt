@@ -1,15 +1,5 @@
-list = str(input())
-numer = []
-numbers = []
-numbers = list.split()
-for i in range(len(numbers)):
-    num_i = int(numbers[i])
-    numer.append(num_i)
-n1 = max(numer)
-n2 = min(numer)
-position1 = numer.index(n1)
-posiyion2 = numer.index(n2)
-numer[position1] = n2
-numer[posiyion2] = n1
-print(*numer)
+﻿И ВСЕМ ПРИВЕТ!!!
+
+
+
 ПРИВЕТИК ВСЕМ
