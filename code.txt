@@ -12,3 +12,4 @@ posiyion2 = numer.index(n2)
 numer[position1] = n2
 numer[posiyion2] = n1
 print(*numer)
+ПРИВЕТИК ВСЕМ
